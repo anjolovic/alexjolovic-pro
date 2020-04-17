@@ -4,11 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Personal Site > Alex Jolovic</title>
-s      </Head>
+        <title>Personal Site > Alex Jolovic</title>s{" "}
+      </Head>
 
       <main>
-        <section className="main">Hello Alex Jolovic</section>
+        <section className="main">
+          <h1>Hello Alex Jolovic</h1>
+        </section>
       </main>
 
       <footer>
