@@ -5,8 +5,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Personal Site > Alex Jolovic</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+s      </Head>
 
       <main>
         <section className="main">Hello Alex Jolovic</section>
