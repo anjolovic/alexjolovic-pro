@@ -4,12 +4,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Personal Site > Alex Jolovic</title>s{" "}
+        <title>Welcome To My Personal Site | Alexander Jolovic</title>s{" "}
       </Head>
 
       <main>
-        <section className="main">
-          <h1>Hello Alex Jolovic</h1>
+        <section>
+          <header classwName="header">
+            <h1>Alexander Jolovic</h1>
+            <h2>Entrepreneur | Developer | Engineer | Dreamer</h2>
+          </header>
         </section>
       </main>
 
